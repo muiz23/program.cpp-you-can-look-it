@@ -1,5 +1,6 @@
 /* This Program for using operate system linux ,if you using windows you edit a bit of this program until succes 
 Name 		: Muhammad muizz
+(Indonesian)
 Class		: Informatika A4 
 */
 
